@@ -1,5 +1,5 @@
 # track-link-poc
-
+It's a Sharepoint extension that track all the links clicked by the user and store them in the session storage. 
 ## Summary
 
 Short summary on functionality and used technologies.
