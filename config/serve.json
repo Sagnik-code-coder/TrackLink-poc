@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://y3mbk.sharepoint.com/sites/MCIOneMazdaDev/SitePages/CollabHome.aspx",
+      "customActions": {
+        "358b40c6-69d4-43fb-b4f0-22c01da86d18": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "trackLinks": {
+      "pageUrl": "https://y3mbk.sharepoint.com/sites/MCIOneMazdaDev/SitePages/CollabHome.aspx",
+      "customActions": {
+        "358b40c6-69d4-43fb-b4f0-22c01da86d18": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

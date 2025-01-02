@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "track-link-poc",
+    "libraryId": "e7268ef1-4d72-413d-8e9a-60c65dcde52f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "track-link-poc",
+    "solutionShortDescription": "track-link-poc description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

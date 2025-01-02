@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="TrackLinks"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="358b40c6-69d4-43fb-b4f0-22c01da86d18"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
